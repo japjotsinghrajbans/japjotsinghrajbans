@@ -4,7 +4,7 @@ I'm [Japjot](https://github.com/japjotsinghrajbans), a first-year Computer Scien
 
 I'm passionate about artificial intelligence, machine learning, and the mathematics behind them.
 
-My long-term goal is to become a machine learning researcher.
+My long-term goal is to pursue machine learning research at state-of-the-art AI labs.
 
 I enjoy turning ideas into software, exploring new technologies, and understanding how things work under the hood.
 
@@ -26,7 +26,7 @@ I'm currently seeking software development, AI/ML, and research-related co-op op
 
 ## Featured Projects
 
-To spare both of us some time, here's a glance at some of my best and most ambitious work!
+To save us both time, here's a look at some of my best and most ambitious work!
 
 ### [PhysEd](https://github.com/japjotsinghrajbans/PhysEd)
 
